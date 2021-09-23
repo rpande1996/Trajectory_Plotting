@@ -9,6 +9,7 @@
 
 1. Numpy
 2. OpenCV
+3. Matplot
 
 # Software Recommended
 
