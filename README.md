@@ -1,4 +1,4 @@
-#How to run the code:
+# How to run the code:
 
 1. Keep the code and the video file in the same directory
 2. The code is setup to plot the graphs of 'Video1'
