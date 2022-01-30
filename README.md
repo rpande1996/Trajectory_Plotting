@@ -49,9 +49,11 @@ SOFTWARE.
 
 ## Demo
 
-Moving point average:
+Video 1:
 
 ![Video 1](https://github.com/rpande1996/Trajectory_Plotting/blob/main/media/output/Plot_for_video1.jpg)
+
+Video 2:
 
 ![Video 2](https://github.com/rpande1996/Trajectory_Plotting/blob/main/media/output/Plot_for_video2.jpg)
 
@@ -62,3 +64,10 @@ git clone https://github.com/rpande1996/Trajectory_Plotting
 cd Trajectory_Plotting/src
 python Trajectory_Plotting.py
 ```
+Enter video selection
+```
+Enter video selection: 
+```
+Video Menu:
+1. Parabolic trajectory
+2. Irregular trajectory
